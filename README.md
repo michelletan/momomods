@@ -1,6 +1,6 @@
 # mods+
 
-[![icon-256x256.png](/src/public/icon-256x256.png)]
+![icon-256x256.png](/src/public/icon-256x256.png)
 
 Plan modules and meetings with your friends easily with mods+.
 
